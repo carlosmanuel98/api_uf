@@ -1,0 +1,5 @@
+Consultar API con formato de fecha: 'd-m-y' por url ejemplo:
+http://127.0.0.1:5000/uf/20-04-2023.
+
+Devuelve resultado de la Unidad de Fomento, en formato json:
+{"fecha":"20-04-2023","valor_uf":"35.708,10"}
